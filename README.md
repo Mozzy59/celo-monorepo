@@ -14,8 +14,8 @@ This repository contains the Core Contracts for the Celo Blockchain. Most Celo p
 - **Developer Tooling**: [celo-org/developer-tooling](https://github.com/celo-org/developer-tooling)
 - **Helm Charts**: [celo-org/charts](https://github.com/celo-org/charts)
 - **SocialConnect**: [celo-org/social-connect](https://github.com/celo-org/social-connect)
-- **Valora Wallet**: [valora-inc](https://github.com/valora-inc)
-- **Mento Protocol**: [mento-protocol](https://github.com/mento-protocol)
+- **Valora Wallet**: [valora-inc](https://github.com/valora-inc) (https://www.valora.xyz/)
+- **Mento Protocol**: [mento-protocol](https://github.com/mento-protocol) (https://www.mento.org/)
 
 For a full list of Celo repositories, visit the [Celo GitHub organization](https://github.com/celo-org).
 
